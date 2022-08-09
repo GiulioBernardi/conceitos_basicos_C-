@@ -1,0 +1,15 @@
+C:\Users\giuli\source\repos\ConceitosBasicos\ConceitosBasicos\obj\Debug\net6.0\ConceitosBasicos.csproj.AssemblyReference.cache
+C:\Users\giuli\source\repos\ConceitosBasicos\ConceitosBasicos\obj\Debug\net6.0\ConceitosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giuli\source\repos\ConceitosBasicos\ConceitosBasicos\obj\Debug\net6.0\ConceitosBasicos.AssemblyInfoInputs.cache
+C:\Users\giuli\source\repos\ConceitosBasicos\ConceitosBasicos\obj\Debug\net6.0\ConceitosBasicos.AssemblyInfo.cs
+C:\Users\giuli\source\repos\ConceitosBasicos\ConceitosBasicos\obj\Debug\net6.0\ConceitosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\giuli\source\repos\ConceitosBasicos\ConceitosBasicos\bin\Debug\net6.0\ConceitosBasicos.exe
+C:\Users\giuli\source\repos\ConceitosBasicos\ConceitosBasicos\bin\Debug\net6.0\ConceitosBasicos.deps.json
+C:\Users\giuli\source\repos\ConceitosBasicos\ConceitosBasicos\bin\Debug\net6.0\ConceitosBasicos.runtimeconfig.json
+C:\Users\giuli\source\repos\ConceitosBasicos\ConceitosBasicos\bin\Debug\net6.0\ConceitosBasicos.dll
+C:\Users\giuli\source\repos\ConceitosBasicos\ConceitosBasicos\bin\Debug\net6.0\ConceitosBasicos.pdb
+C:\Users\giuli\source\repos\ConceitosBasicos\ConceitosBasicos\obj\Debug\net6.0\ConceitosBasicos.dll
+C:\Users\giuli\source\repos\ConceitosBasicos\ConceitosBasicos\obj\Debug\net6.0\refint\ConceitosBasicos.dll
+C:\Users\giuli\source\repos\ConceitosBasicos\ConceitosBasicos\obj\Debug\net6.0\ConceitosBasicos.pdb
+C:\Users\giuli\source\repos\ConceitosBasicos\ConceitosBasicos\obj\Debug\net6.0\ConceitosBasicos.genruntimeconfig.cache
+C:\Users\giuli\source\repos\ConceitosBasicos\ConceitosBasicos\obj\Debug\net6.0\ref\ConceitosBasicos.dll
